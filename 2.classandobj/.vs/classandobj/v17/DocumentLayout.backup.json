@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.netc#\\classandobj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EBF5A5-AB73-4BFF-84F9-6C9EE7BBDBD3}|..\\practice\\practice.csproj|e:\\.netc#\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EBF5A5-AB73-4BFF-84F9-6C9EE7BBDBD3}|..\\practice\\ShapeDemo.csproj|e:\\.netc#\\practice\\shapedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2994D975-CEF8-83AE-C5DE-5E321A478B50}|..\\person\\Constractor.csproj|e:\\.netc#\\person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CF65D-AE7A-4CE4-856B-20BF4917E16D}|classandobj.csproj|e:\\.netc#\\classandobj\\classandobj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E1CF65D-AE7A-4CE4-856B-20BF4917E16D}|classandobj.csproj|solutionrelative:classandobj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1CF65D-AE7A-4CE4-856B-20BF4917E16D}|classandobj.csproj|e:\\.netc#\\classandobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1CF65D-AE7A-4CE4-856B-20BF4917E16D}|classandobj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 246,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeDemo.csproj",
+              "DocumentMoniker": "E:\\.netc#\\practice\\ShapeDemo.csproj",
+              "RelativeDocumentMoniker": "..\\practice\\ShapeDemo.csproj",
+              "ToolTip": "E:\\.netc#\\practice\\ShapeDemo.csproj",
+              "RelativeToolTip": "..\\practice\\ShapeDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T17:33:27.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\person\\Program.cs",
+              "RelativeDocumentMoniker": "..\\person\\Program.cs",
+              "ToolTip": "E:\\.netc#\\person\\Program.cs",
+              "RelativeToolTip": "..\\person\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswCAAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:28:43.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\practice\\Program.cs",
+              "RelativeDocumentMoniker": "..\\practice\\Program.cs",
+              "ToolTip": "E:\\.netc#\\practice\\Program.cs",
+              "RelativeToolTip": "..\\practice\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:14:29.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\classandobj\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\.netc#\\classandobj\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:11:47.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "classandobj.csproj",
+              "DocumentMoniker": "E:\\.netc#\\classandobj\\classandobj.csproj",
+              "RelativeDocumentMoniker": "classandobj.csproj",
+              "ToolTip": "E:\\.netc#\\classandobj\\classandobj.csproj",
+              "RelativeToolTip": "classandobj.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T18:11:39.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

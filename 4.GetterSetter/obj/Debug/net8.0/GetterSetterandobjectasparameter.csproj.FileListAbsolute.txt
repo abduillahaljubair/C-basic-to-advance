@@ -1,0 +1,14 @@
+E:\.netc#\GetterSetter\bin\Debug\net8.0\GetterSetterandobjectasparameter.exe
+E:\.netc#\GetterSetter\bin\Debug\net8.0\GetterSetterandobjectasparameter.deps.json
+E:\.netc#\GetterSetter\bin\Debug\net8.0\GetterSetterandobjectasparameter.runtimeconfig.json
+E:\.netc#\GetterSetter\bin\Debug\net8.0\GetterSetterandobjectasparameter.dll
+E:\.netc#\GetterSetter\bin\Debug\net8.0\GetterSetterandobjectasparameter.pdb
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetterandobjectasparameter.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetterandobjectasparameter.AssemblyInfoInputs.cache
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetterandobjectasparameter.AssemblyInfo.cs
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetterandobjectasparameter.csproj.CoreCompileInputs.cache
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetterandobjectasparameter.dll
+E:\.netc#\GetterSetter\obj\Debug\net8.0\refint\GetterSetterandobjectasparameter.dll
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetterandobjectasparameter.pdb
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetterandobjectasparameter.genruntimeconfig.cache
+E:\.netc#\GetterSetter\obj\Debug\net8.0\ref\GetterSetterandobjectasparameter.dll

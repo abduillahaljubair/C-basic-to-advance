@@ -1,0 +1,14 @@
+E:\.netc#\GetterSetter\bin\Debug\net8.0\GetterSetter.exe
+E:\.netc#\GetterSetter\bin\Debug\net8.0\GetterSetter.deps.json
+E:\.netc#\GetterSetter\bin\Debug\net8.0\GetterSetter.runtimeconfig.json
+E:\.netc#\GetterSetter\bin\Debug\net8.0\GetterSetter.dll
+E:\.netc#\GetterSetter\bin\Debug\net8.0\GetterSetter.pdb
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetter.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetter.AssemblyInfoInputs.cache
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetter.AssemblyInfo.cs
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetter.csproj.CoreCompileInputs.cache
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetter.dll
+E:\.netc#\GetterSetter\obj\Debug\net8.0\refint\GetterSetter.dll
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetter.pdb
+E:\.netc#\GetterSetter\obj\Debug\net8.0\GetterSetter.genruntimeconfig.cache
+E:\.netc#\GetterSetter\obj\Debug\net8.0\ref\GetterSetter.dll

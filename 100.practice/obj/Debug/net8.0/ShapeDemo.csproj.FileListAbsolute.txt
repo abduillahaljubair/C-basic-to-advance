@@ -1,0 +1,14 @@
+E:\.netc#\practice\bin\Debug\net8.0\ShapeDemo.exe
+E:\.netc#\practice\bin\Debug\net8.0\ShapeDemo.deps.json
+E:\.netc#\practice\bin\Debug\net8.0\ShapeDemo.runtimeconfig.json
+E:\.netc#\practice\bin\Debug\net8.0\ShapeDemo.dll
+E:\.netc#\practice\bin\Debug\net8.0\ShapeDemo.pdb
+E:\.netc#\practice\obj\Debug\net8.0\ShapeDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\practice\obj\Debug\net8.0\ShapeDemo.AssemblyInfoInputs.cache
+E:\.netc#\practice\obj\Debug\net8.0\ShapeDemo.AssemblyInfo.cs
+E:\.netc#\practice\obj\Debug\net8.0\ShapeDemo.csproj.CoreCompileInputs.cache
+E:\.netc#\practice\obj\Debug\net8.0\ShapeDemo.dll
+E:\.netc#\practice\obj\Debug\net8.0\refint\ShapeDemo.dll
+E:\.netc#\practice\obj\Debug\net8.0\ShapeDemo.pdb
+E:\.netc#\practice\obj\Debug\net8.0\ShapeDemo.genruntimeconfig.cache
+E:\.netc#\practice\obj\Debug\net8.0\ref\ShapeDemo.dll

@@ -1,0 +1,14 @@
+E:\.netc#\classandobj\obj\Debug\net8.0\classandobj.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\classandobj\obj\Debug\net8.0\classandobj.AssemblyInfoInputs.cache
+E:\.netc#\classandobj\obj\Debug\net8.0\classandobj.AssemblyInfo.cs
+E:\.netc#\classandobj\obj\Debug\net8.0\classandobj.csproj.CoreCompileInputs.cache
+E:\.netc#\classandobj\bin\Debug\net8.0\classandobj.exe
+E:\.netc#\classandobj\bin\Debug\net8.0\classandobj.deps.json
+E:\.netc#\classandobj\bin\Debug\net8.0\classandobj.runtimeconfig.json
+E:\.netc#\classandobj\bin\Debug\net8.0\classandobj.dll
+E:\.netc#\classandobj\bin\Debug\net8.0\classandobj.pdb
+E:\.netc#\classandobj\obj\Debug\net8.0\classandobj.dll
+E:\.netc#\classandobj\obj\Debug\net8.0\refint\classandobj.dll
+E:\.netc#\classandobj\obj\Debug\net8.0\classandobj.pdb
+E:\.netc#\classandobj\obj\Debug\net8.0\classandobj.genruntimeconfig.cache
+E:\.netc#\classandobj\obj\Debug\net8.0\ref\classandobj.dll

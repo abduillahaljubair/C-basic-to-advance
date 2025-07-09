@@ -1,0 +1,14 @@
+E:\.netc#\person\bin\Debug\net8.0\Constractor.exe
+E:\.netc#\person\bin\Debug\net8.0\Constractor.deps.json
+E:\.netc#\person\bin\Debug\net8.0\Constractor.runtimeconfig.json
+E:\.netc#\person\bin\Debug\net8.0\Constractor.dll
+E:\.netc#\person\bin\Debug\net8.0\Constractor.pdb
+E:\.netc#\person\obj\Debug\net8.0\Constractor.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\person\obj\Debug\net8.0\Constractor.AssemblyInfoInputs.cache
+E:\.netc#\person\obj\Debug\net8.0\Constractor.AssemblyInfo.cs
+E:\.netc#\person\obj\Debug\net8.0\Constractor.csproj.CoreCompileInputs.cache
+E:\.netc#\person\obj\Debug\net8.0\Constractor.dll
+E:\.netc#\person\obj\Debug\net8.0\refint\Constractor.dll
+E:\.netc#\person\obj\Debug\net8.0\Constractor.pdb
+E:\.netc#\person\obj\Debug\net8.0\Constractor.genruntimeconfig.cache
+E:\.netc#\person\obj\Debug\net8.0\ref\Constractor.dll

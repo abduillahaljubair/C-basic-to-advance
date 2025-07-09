@@ -1,0 +1,28 @@
+E:\.netc#\statickeyword\bin\Debug\net8.0\statickeyword.exe
+E:\.netc#\statickeyword\bin\Debug\net8.0\statickeyword.deps.json
+E:\.netc#\statickeyword\bin\Debug\net8.0\statickeyword.runtimeconfig.json
+E:\.netc#\statickeyword\bin\Debug\net8.0\statickeyword.dll
+E:\.netc#\statickeyword\bin\Debug\net8.0\statickeyword.pdb
+E:\.netc#\statickeyword\obj\Debug\net8.0\statickeyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\statickeyword\obj\Debug\net8.0\statickeyword.AssemblyInfoInputs.cache
+E:\.netc#\statickeyword\obj\Debug\net8.0\statickeyword.AssemblyInfo.cs
+E:\.netc#\statickeyword\obj\Debug\net8.0\statickeyword.csproj.CoreCompileInputs.cache
+E:\.netc#\statickeyword\obj\Debug\net8.0\statickeyword.dll
+E:\.netc#\statickeyword\obj\Debug\net8.0\refint\statickeyword.dll
+E:\.netc#\statickeyword\obj\Debug\net8.0\statickeyword.pdb
+E:\.netc#\statickeyword\obj\Debug\net8.0\statickeyword.genruntimeconfig.cache
+E:\.netc#\statickeyword\obj\Debug\net8.0\ref\statickeyword.dll
+E:\.netc#\csharp basic to advance\5.statickeyword\bin\Debug\net8.0\statickeyword.exe
+E:\.netc#\csharp basic to advance\5.statickeyword\bin\Debug\net8.0\statickeyword.deps.json
+E:\.netc#\csharp basic to advance\5.statickeyword\bin\Debug\net8.0\statickeyword.runtimeconfig.json
+E:\.netc#\csharp basic to advance\5.statickeyword\bin\Debug\net8.0\statickeyword.dll
+E:\.netc#\csharp basic to advance\5.statickeyword\bin\Debug\net8.0\statickeyword.pdb
+E:\.netc#\csharp basic to advance\5.statickeyword\obj\Debug\net8.0\statickeyword.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\csharp basic to advance\5.statickeyword\obj\Debug\net8.0\statickeyword.AssemblyInfoInputs.cache
+E:\.netc#\csharp basic to advance\5.statickeyword\obj\Debug\net8.0\statickeyword.AssemblyInfo.cs
+E:\.netc#\csharp basic to advance\5.statickeyword\obj\Debug\net8.0\statickeyword.csproj.CoreCompileInputs.cache
+E:\.netc#\csharp basic to advance\5.statickeyword\obj\Debug\net8.0\statickeyword.dll
+E:\.netc#\csharp basic to advance\5.statickeyword\obj\Debug\net8.0\refint\statickeyword.dll
+E:\.netc#\csharp basic to advance\5.statickeyword\obj\Debug\net8.0\statickeyword.pdb
+E:\.netc#\csharp basic to advance\5.statickeyword\obj\Debug\net8.0\statickeyword.genruntimeconfig.cache
+E:\.netc#\csharp basic to advance\5.statickeyword\obj\Debug\net8.0\ref\statickeyword.dll
