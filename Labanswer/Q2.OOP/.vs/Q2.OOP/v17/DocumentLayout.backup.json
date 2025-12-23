@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.netc#\\Labanswer\\Q2.OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD11717-F3B9-4F61-846A-4B3BEF58082A}|..\\Q3.LIST\\Q3.LIST.csproj|e:\\.netc#\\labanswer\\q3.list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCF7B23-5298-43FF-8B17-FE6A57E6E6A1}|Q2.OOP.csproj|e:\\.netc#\\labanswer\\q2.oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCF7B23-5298-43FF-8B17-FE6A57E6E6A1}|Q2.OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\Labanswer\\Q3.LIST\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Q3.LIST\\Program.cs",
+              "ToolTip": "E:\\.netc#\\Labanswer\\Q3.LIST\\Program.cs*",
+              "RelativeToolTip": "..\\Q3.LIST\\Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T21:14:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\Labanswer\\Q2.OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\.netc#\\Labanswer\\Q2.OOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T20:42:42.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

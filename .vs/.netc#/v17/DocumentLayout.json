@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.netc#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\5.statickeyword\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:5.statickeyword\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\res3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:res3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\interFFace\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:interFFace\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\inheritance\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\inheritance\\privatesupercontractor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance\\privatesupercontractor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\allinone\\Numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:allinone\\Numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\allinone\\Print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:allinone\\Print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\allinone\\OverRidingImplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:allinone\\OverRidingImplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\allinone\\OverRiding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:allinone\\OverRiding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\allinone\\OOP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:allinone\\OOP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\allinone\\Loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:allinone\\Loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\allinone\\Lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:allinone\\Lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\allinone\\IfElse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:allinone\\IfElse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\allinone\\Generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:allinone\\Generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\abstraction2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abstraction2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\abstraction2\\abstraction2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abstraction2\\abstraction2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\abstraction\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abstraction\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\inheritance\\3.publicconstractor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance\\3.publicconstractor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\inheritance\\2.inheritancebasis\\simpleinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance\\2.inheritancebasis\\simpleinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\inheritance\\2.inheritancebasis\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance\\2.inheritancebasis\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\inheritance\\1.inheritance\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance\\1.inheritance\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\2.classandobj\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2.classandobj\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\practice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:practice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\inheritance\\1.inheritance\\inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance\\1.inheritance\\inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\1.C#basic\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1.C#basic\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\inheritance\\2.inheritancebasis\\2.inheritancebasis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance\\2.inheritancebasis\\2.inheritancebasis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\encapsulation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:encapsulation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\allinone\\IOOP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:allinone\\IOOP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\5.statickeyword\\Program.cs",
+              "RelativeDocumentMoniker": "5.statickeyword\\Program.cs",
+              "ToolTip": "E:\\.netc#\\5.statickeyword\\Program.cs",
+              "RelativeToolTip": "5.statickeyword\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:12:56.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\res3\\Program.cs",
+              "RelativeDocumentMoniker": "res3\\Program.cs",
+              "ToolTip": "E:\\.netc#\\res3\\Program.cs",
+              "RelativeToolTip": "res3\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:50:46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OverRiding.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\OverRiding.cs",
+              "RelativeDocumentMoniker": "allinone\\OverRiding.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\OverRiding.cs",
+              "RelativeToolTip": "allinone\\OverRiding.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:12:08.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OOP.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\OOP.cs",
+              "RelativeDocumentMoniker": "allinone\\OOP.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\OOP.cs",
+              "RelativeToolTip": "allinone\\OOP.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:10:51.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\interFFace\\Program.cs",
+              "RelativeDocumentMoniker": "interFFace\\Program.cs",
+              "ToolTip": "E:\\.netc#\\interFFace\\Program.cs",
+              "RelativeToolTip": "interFFace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:44:11.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OverRidingImplementation.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\OverRidingImplementation.cs",
+              "RelativeDocumentMoniker": "allinone\\OverRidingImplementation.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\OverRidingImplementation.cs",
+              "RelativeToolTip": "allinone\\OverRidingImplementation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:12:18.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Print.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\Print.cs",
+              "RelativeDocumentMoniker": "allinone\\Print.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\Print.cs",
+              "RelativeToolTip": "allinone\\Print.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:13:01.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Numbers.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\Numbers.cs",
+              "RelativeDocumentMoniker": "allinone\\Numbers.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\Numbers.cs",
+              "RelativeToolTip": "allinone\\Numbers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:10:50.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\privatesupercontractor\\Program.cs",
+              "RelativeDocumentMoniker": "inheritance\\privatesupercontractor\\Program.cs",
+              "ToolTip": "E:\\.netc#\\inheritance\\privatesupercontractor\\Program.cs",
+              "RelativeToolTip": "inheritance\\privatesupercontractor\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:38:11.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "inheritance\\Program.cs",
+              "ToolTip": "E:\\.netc#\\inheritance\\Program.cs",
+              "RelativeToolTip": "inheritance\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:24:47.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Loops.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\Loops.cs",
+              "RelativeDocumentMoniker": "allinone\\Loops.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\Loops.cs",
+              "RelativeToolTip": "allinone\\Loops.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:10:49.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lists.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\Lists.cs",
+              "RelativeDocumentMoniker": "allinone\\Lists.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\Lists.cs",
+              "RelativeToolTip": "allinone\\Lists.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:10:44.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IfElse.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\IfElse.cs",
+              "RelativeDocumentMoniker": "allinone\\IfElse.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\IfElse.cs",
+              "RelativeToolTip": "allinone\\IfElse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:10:42.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\Generic.cs",
+              "RelativeDocumentMoniker": "allinone\\Generic.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\Generic.cs",
+              "RelativeToolTip": "allinone\\Generic.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:10:31.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "abstraction2.csproj",
+              "DocumentMoniker": "E:\\.netc#\\abstraction2\\abstraction2.csproj",
+              "RelativeDocumentMoniker": "abstraction2\\abstraction2.csproj",
+              "ToolTip": "E:\\.netc#\\abstraction2\\abstraction2.csproj",
+              "RelativeToolTip": "abstraction2\\abstraction2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T12:10:23.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\abstraction2\\Program.cs",
+              "RelativeDocumentMoniker": "abstraction2\\Program.cs",
+              "ToolTip": "E:\\.netc#\\abstraction2\\Program.cs",
+              "RelativeToolTip": "abstraction2\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:38:10.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\3.publicconstractor\\Program.cs",
+              "RelativeDocumentMoniker": "inheritance\\3.publicconstractor\\Program.cs",
+              "ToolTip": "E:\\.netc#\\inheritance\\3.publicconstractor\\Program.cs",
+              "RelativeToolTip": "inheritance\\3.publicconstractor\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:25:30.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\2.inheritancebasis\\Program.cs",
+              "RelativeDocumentMoniker": "inheritance\\2.inheritancebasis\\Program.cs",
+              "ToolTip": "E:\\.netc#\\inheritance\\2.inheritancebasis\\Program.cs",
+              "RelativeToolTip": "inheritance\\2.inheritancebasis\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:24:31.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "simpleinheritance.cs",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\2.inheritancebasis\\simpleinheritance.cs",
+              "RelativeDocumentMoniker": "inheritance\\2.inheritancebasis\\simpleinheritance.cs",
+              "ToolTip": "E:\\.netc#\\inheritance\\2.inheritancebasis\\simpleinheritance.cs",
+              "RelativeToolTip": "inheritance\\2.inheritancebasis\\simpleinheritance.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:24:18.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\1.inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "inheritance\\1.inheritance\\Program.cs",
+              "ToolTip": "E:\\.netc#\\inheritance\\1.inheritance\\Program.cs",
+              "RelativeToolTip": "inheritance\\1.inheritance\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:23:15.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\practice\\Program.cs",
+              "RelativeDocumentMoniker": "practice\\Program.cs",
+              "ToolTip": "E:\\.netc#\\practice\\Program.cs",
+              "RelativeToolTip": "practice\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:01:43.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "abstraction\\Program.cs",
+              "ToolTip": "E:\\.netc#\\abstraction\\Program.cs",
+              "RelativeToolTip": "abstraction\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:42:11.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "inheritance.csproj",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\1.inheritance\\inheritance.csproj",
+              "RelativeDocumentMoniker": "inheritance\\1.inheritance\\inheritance.csproj",
+              "ToolTip": "E:\\.netc#\\inheritance\\1.inheritance\\inheritance.csproj",
+              "RelativeToolTip": "inheritance\\1.inheritance\\inheritance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T15:31:52.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\2.classandobj\\Program.cs",
+              "RelativeDocumentMoniker": "2.classandobj\\Program.cs",
+              "ToolTip": "E:\\.netc#\\2.classandobj\\Program.cs",
+              "RelativeToolTip": "2.classandobj\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:06:38.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\1.C#basic\\Program.cs",
+              "RelativeDocumentMoniker": "1.C#basic\\Program.cs",
+              "ToolTip": "E:\\.netc#\\1.C#basic\\Program.cs",
+              "RelativeToolTip": "1.C#basic\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T17:00:42.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "2.inheritancebasis.csproj",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\2.inheritancebasis\\2.inheritancebasis.csproj",
+              "RelativeDocumentMoniker": "inheritance\\2.inheritancebasis\\2.inheritancebasis.csproj",
+              "ToolTip": "E:\\.netc#\\inheritance\\2.inheritancebasis\\2.inheritancebasis.csproj",
+              "RelativeToolTip": "inheritance\\2.inheritancebasis\\2.inheritancebasis.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T10:24:17.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "encapsulation\\Program.cs",
+              "ToolTip": "E:\\.netc#\\encapsulation\\Program.cs",
+              "RelativeToolTip": "encapsulation\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:37:03.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOOP.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\IOOP.cs",
+              "RelativeDocumentMoniker": "allinone\\IOOP.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\IOOP.cs",
+              "RelativeToolTip": "allinone\\IOOP.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:02:37.087Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -65,6 +65,8 @@ namespace statickeyword
             student t3 = new student();
             t3.displaycount();
             student.displaycount1(); //static method call
+          
+
 
         }
     }

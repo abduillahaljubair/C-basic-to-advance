@@ -1,0 +1,15 @@
+E:\.netc#\res3\bin\Debug\net8.0\res3.exe
+E:\.netc#\res3\bin\Debug\net8.0\res3.deps.json
+E:\.netc#\res3\bin\Debug\net8.0\res3.runtimeconfig.json
+E:\.netc#\res3\bin\Debug\net8.0\res3.dll
+E:\.netc#\res3\bin\Debug\net8.0\res3.pdb
+E:\.netc#\res3\obj\Debug\net8.0\res3.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\res3\obj\Debug\net8.0\res3.AssemblyInfoInputs.cache
+E:\.netc#\res3\obj\Debug\net8.0\res3.AssemblyInfo.cs
+E:\.netc#\res3\obj\Debug\net8.0\res3.csproj.CoreCompileInputs.cache
+E:\.netc#\res3\obj\Debug\net8.0\res3.sourcelink.json
+E:\.netc#\res3\obj\Debug\net8.0\res3.dll
+E:\.netc#\res3\obj\Debug\net8.0\refint\res3.dll
+E:\.netc#\res3\obj\Debug\net8.0\res3.pdb
+E:\.netc#\res3\obj\Debug\net8.0\res3.genruntimeconfig.cache
+E:\.netc#\res3\obj\Debug\net8.0\ref\res3.dll

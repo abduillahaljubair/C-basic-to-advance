@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.netc#\\OOPinShort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|e:\\.netc#\\oopinshort\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|solutionrelative:abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|e:\\.netc#\\oopinshort\\oopinshort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|solutionrelative:oopinshort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|e:\\.netc#\\oopinshort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|e:\\.netc#\\oopinshort\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|e:\\.netc#\\oopinshort\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|e:\\.netc#\\oopinshort\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|solutionrelative:interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|e:\\.netc#\\oopinshort\\multilevelinther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|solutionrelative:multilevelinther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|e:\\.netc#\\oopinshort\\singleinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEC2F4C-FE32-4F1A-807D-0D95BC852181}|OOPinShort.csproj|solutionrelative:singleinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "multilevelinther.cs",
+              "DocumentMoniker": "E:\\.netc#\\OOPinShort\\multilevelinther.cs",
+              "RelativeDocumentMoniker": "multilevelinther.cs",
+              "ToolTip": "E:\\.netc#\\OOPinShort\\multilevelinther.cs",
+              "RelativeToolTip": "multilevelinther.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:09:48.557Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "abstractclass.cs",
+              "DocumentMoniker": "E:\\.netc#\\OOPinShort\\abstractclass.cs",
+              "RelativeDocumentMoniker": "abstractclass.cs",
+              "ToolTip": "E:\\.netc#\\OOPinShort\\abstractclass.cs*",
+              "RelativeToolTip": "abstractclass.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:21:19.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rectangle.cs",
+              "DocumentMoniker": "E:\\.netc#\\OOPinShort\\rectangle.cs",
+              "RelativeDocumentMoniker": "rectangle.cs",
+              "ToolTip": "E:\\.netc#\\OOPinShort\\rectangle.cs",
+              "RelativeToolTip": "rectangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:43:28.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "interface.cs",
+              "DocumentMoniker": "E:\\.netc#\\OOPinShort\\interface.cs",
+              "RelativeDocumentMoniker": "interface.cs",
+              "ToolTip": "E:\\.netc#\\OOPinShort\\interface.cs",
+              "RelativeToolTip": "interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T07:40:21.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\.netc#\\OOPinShort\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "E:\\.netc#\\OOPinShort\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:04:48.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "singleinheritance.cs",
+              "DocumentMoniker": "E:\\.netc#\\OOPinShort\\singleinheritance.cs",
+              "RelativeDocumentMoniker": "singleinheritance.cs",
+              "ToolTip": "E:\\.netc#\\OOPinShort\\singleinheritance.cs",
+              "RelativeToolTip": "singleinheritance.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:35:14.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OOPinShort.csproj",
+              "DocumentMoniker": "E:\\.netc#\\OOPinShort\\OOPinShort.csproj",
+              "RelativeDocumentMoniker": "OOPinShort.csproj",
+              "ToolTip": "E:\\.netc#\\OOPinShort\\OOPinShort.csproj",
+              "RelativeToolTip": "OOPinShort.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T19:20:18.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\OOPinShort\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\.netc#\\OOPinShort\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:20:06.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

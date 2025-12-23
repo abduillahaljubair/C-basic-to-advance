@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.netc#\\statickeyword\\statickeyword.csproj": {}
+    "E:\\.netc#\\5.statickeyword\\statickeyword.csproj": {}
   },
   "projects": {
-    "E:\\.netc#\\statickeyword\\statickeyword.csproj": {
+    "E:\\.netc#\\5.statickeyword\\statickeyword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.netc#\\statickeyword\\statickeyword.csproj",
+        "projectUniqueName": "E:\\.netc#\\5.statickeyword\\statickeyword.csproj",
         "projectName": "statickeyword",
-        "projectPath": "E:\\.netc#\\statickeyword\\statickeyword.csproj",
+        "projectPath": "E:\\.netc#\\5.statickeyword\\statickeyword.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\.netc#\\statickeyword\\obj\\",
+        "outputPath": "E:\\.netc#\\5.statickeyword\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+E:\.netc#\Labanswer\Q3.LIST\bin\Debug\net8.0\Q3.LIST.exe
+E:\.netc#\Labanswer\Q3.LIST\bin\Debug\net8.0\Q3.LIST.deps.json
+E:\.netc#\Labanswer\Q3.LIST\bin\Debug\net8.0\Q3.LIST.runtimeconfig.json
+E:\.netc#\Labanswer\Q3.LIST\bin\Debug\net8.0\Q3.LIST.dll
+E:\.netc#\Labanswer\Q3.LIST\bin\Debug\net8.0\Q3.LIST.pdb
+E:\.netc#\Labanswer\Q3.LIST\obj\Debug\net8.0\Q3.LIST.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\Labanswer\Q3.LIST\obj\Debug\net8.0\Q3.LIST.AssemblyInfoInputs.cache
+E:\.netc#\Labanswer\Q3.LIST\obj\Debug\net8.0\Q3.LIST.AssemblyInfo.cs
+E:\.netc#\Labanswer\Q3.LIST\obj\Debug\net8.0\Q3.LIST.csproj.CoreCompileInputs.cache
+E:\.netc#\Labanswer\Q3.LIST\obj\Debug\net8.0\Q3.LIST.sourcelink.json
+E:\.netc#\Labanswer\Q3.LIST\obj\Debug\net8.0\Q3.LIST.dll
+E:\.netc#\Labanswer\Q3.LIST\obj\Debug\net8.0\refint\Q3.LIST.dll
+E:\.netc#\Labanswer\Q3.LIST\obj\Debug\net8.0\Q3.LIST.pdb
+E:\.netc#\Labanswer\Q3.LIST\obj\Debug\net8.0\Q3.LIST.genruntimeconfig.cache
+E:\.netc#\Labanswer\Q3.LIST\obj\Debug\net8.0\ref\Q3.LIST.dll

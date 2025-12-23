@@ -1,0 +1,15 @@
+E:\.netc#\Labanswer\Q2.OOP\obj\Debug\net8.0\Q2.OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\Labanswer\Q2.OOP\obj\Debug\net8.0\Q2.OOP.AssemblyInfoInputs.cache
+E:\.netc#\Labanswer\Q2.OOP\obj\Debug\net8.0\Q2.OOP.AssemblyInfo.cs
+E:\.netc#\Labanswer\Q2.OOP\obj\Debug\net8.0\Q2.OOP.csproj.CoreCompileInputs.cache
+E:\.netc#\Labanswer\Q2.OOP\obj\Debug\net8.0\Q2.OOP.sourcelink.json
+E:\.netc#\Labanswer\Q2.OOP\bin\Debug\net8.0\Q2.OOP.exe
+E:\.netc#\Labanswer\Q2.OOP\bin\Debug\net8.0\Q2.OOP.deps.json
+E:\.netc#\Labanswer\Q2.OOP\bin\Debug\net8.0\Q2.OOP.runtimeconfig.json
+E:\.netc#\Labanswer\Q2.OOP\bin\Debug\net8.0\Q2.OOP.dll
+E:\.netc#\Labanswer\Q2.OOP\bin\Debug\net8.0\Q2.OOP.pdb
+E:\.netc#\Labanswer\Q2.OOP\obj\Debug\net8.0\Q2.OOP.dll
+E:\.netc#\Labanswer\Q2.OOP\obj\Debug\net8.0\refint\Q2.OOP.dll
+E:\.netc#\Labanswer\Q2.OOP\obj\Debug\net8.0\Q2.OOP.pdb
+E:\.netc#\Labanswer\Q2.OOP\obj\Debug\net8.0\Q2.OOP.genruntimeconfig.cache
+E:\.netc#\Labanswer\Q2.OOP\obj\Debug\net8.0\ref\Q2.OOP.dll

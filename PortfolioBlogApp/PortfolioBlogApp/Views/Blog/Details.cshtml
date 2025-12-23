@@ -1,0 +1,38 @@
+﻿@model PortfolioBlogApp.Models.BlogPost
+@{
+    ViewBag.Title = Model.Title;
+}
+
+<h2>@Model.Title</h2>
+<p>@Model.Content</p>
+<hr />
+
+<h4>Comments</h4>
+@if (Model.Comments != null && Model.Comments.Count > 0)
+{
+    <ul>
+        @foreach (var comment in Model.Comments)
+        {
+            <li>@comment</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No comments yet.</p>
+}
+
+<h5>Add Comment</h5>
+@using (Html.BeginForm("AddComment", "Blog", FormMethod.Post))
+{
+    @Html.Hidden("id", Model.Id)
+    <div class="form-group">
+        <textarea name="comment" class="form-control" placeholder="Enter comment"></textarea>
+    </div>
+    <button type="submit" class="btn btn-success mt-2">Submit</button>
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger mt-2">@TempData["Error"]</div>
+}

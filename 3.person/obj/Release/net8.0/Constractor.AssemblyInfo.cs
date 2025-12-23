@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constractor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3b901d9507063dbbfb42e91789641f45e56f8c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constractor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constractor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

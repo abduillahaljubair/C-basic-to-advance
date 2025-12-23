@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.netc#\\classandobj\\classandobj.csproj": {}
+    "E:\\.netc#\\2.classandobj\\classandobj.csproj": {}
   },
   "projects": {
-    "E:\\.netc#\\classandobj\\classandobj.csproj": {
+    "E:\\.netc#\\2.classandobj\\classandobj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.netc#\\classandobj\\classandobj.csproj",
+        "projectUniqueName": "E:\\.netc#\\2.classandobj\\classandobj.csproj",
         "projectName": "classandobj",
-        "projectPath": "E:\\.netc#\\classandobj\\classandobj.csproj",
+        "projectPath": "E:\\.netc#\\2.classandobj\\classandobj.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\.netc#\\classandobj\\obj\\",
+        "outputPath": "E:\\.netc#\\2.classandobj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

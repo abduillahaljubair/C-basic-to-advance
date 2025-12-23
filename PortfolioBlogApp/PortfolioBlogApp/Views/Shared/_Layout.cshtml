@@ -1,0 +1,103 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Portfolio Blog</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <style>
+        /* === Navbar Custom Styling === */
+        .navbar {
+            padding: 12px 20px;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .navbar-brand {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #f8f9fa !important;
+            letter-spacing: 1px;
+        }
+
+        .nav-link {
+            color: #ddd !important;
+            margin: 0 8px;
+            font-weight: 500;
+            transition: color 0.3s ease, transform 0.2s ease;
+        }
+
+            .nav-link:hover {
+                color: #fff !important;
+                transform: translateY(-2px);
+            }
+
+        .navbar-nav .active > .nav-link {
+            color: #0d6efd !important;
+            font-weight: 600;
+        }
+        /* Sticky Navbar Effect */
+        .navbar.scrolled {
+            background-color: #212529 !important;
+            box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        /* === Footer Styling === */
+        footer {
+            margin-top: 40px;
+            padding: 15px 0;
+            border-top: 1px solid #ddd;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- === Navbar === -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            @Html.ActionLink("MyPortfolio", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li class="nav-item">@Html.ActionLink("Blog", "Index", "Blog", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li class="nav-item">@Html.ActionLink("Contact", "Index", "Contact", new { area = "" }, new { @class = "nav-link" })</li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- === Page Body === -->
+    <div class="container body-content" style="margin-top:80px">
+        @RenderBody()
+        <hr />
+        <footer class="text-center text-muted">
+            <p>&copy; @DateTime.Now.Year - My Portfolio Blog</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <!-- Scroll Effect Script -->
+    <script>
+        window.addEventListener("scroll", function () {
+            const navbar = document.querySelector(".navbar");
+            if (window.scrollY > 50) {
+                navbar.classList.add("scrolled");
+            } else {
+                navbar.classList.remove("scrolled");
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+E:\.netc#\ConsoleApp1\bin\Debug\net8.0\res4.exe
+E:\.netc#\ConsoleApp1\bin\Debug\net8.0\res4.deps.json
+E:\.netc#\ConsoleApp1\bin\Debug\net8.0\res4.runtimeconfig.json
+E:\.netc#\ConsoleApp1\bin\Debug\net8.0\res4.dll
+E:\.netc#\ConsoleApp1\bin\Debug\net8.0\res4.pdb
+E:\.netc#\ConsoleApp1\obj\Debug\net8.0\res4.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\ConsoleApp1\obj\Debug\net8.0\res4.AssemblyInfoInputs.cache
+E:\.netc#\ConsoleApp1\obj\Debug\net8.0\res4.AssemblyInfo.cs
+E:\.netc#\ConsoleApp1\obj\Debug\net8.0\res4.csproj.CoreCompileInputs.cache
+E:\.netc#\ConsoleApp1\obj\Debug\net8.0\res4.sourcelink.json
+E:\.netc#\ConsoleApp1\obj\Debug\net8.0\res4.dll
+E:\.netc#\ConsoleApp1\obj\Debug\net8.0\refint\res4.dll
+E:\.netc#\ConsoleApp1\obj\Debug\net8.0\res4.pdb
+E:\.netc#\ConsoleApp1\obj\Debug\net8.0\res4.genruntimeconfig.cache
+E:\.netc#\ConsoleApp1\obj\Debug\net8.0\ref\res4.dll

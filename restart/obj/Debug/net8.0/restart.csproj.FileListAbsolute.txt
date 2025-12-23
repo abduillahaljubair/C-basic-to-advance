@@ -1,0 +1,15 @@
+E:\.netc#\restart\bin\Debug\net8.0\restart.exe
+E:\.netc#\restart\bin\Debug\net8.0\restart.deps.json
+E:\.netc#\restart\bin\Debug\net8.0\restart.runtimeconfig.json
+E:\.netc#\restart\bin\Debug\net8.0\restart.dll
+E:\.netc#\restart\bin\Debug\net8.0\restart.pdb
+E:\.netc#\restart\obj\Debug\net8.0\restart.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\restart\obj\Debug\net8.0\restart.AssemblyInfoInputs.cache
+E:\.netc#\restart\obj\Debug\net8.0\restart.AssemblyInfo.cs
+E:\.netc#\restart\obj\Debug\net8.0\restart.csproj.CoreCompileInputs.cache
+E:\.netc#\restart\obj\Debug\net8.0\restart.sourcelink.json
+E:\.netc#\restart\obj\Debug\net8.0\restart.dll
+E:\.netc#\restart\obj\Debug\net8.0\refint\restart.dll
+E:\.netc#\restart\obj\Debug\net8.0\restart.pdb
+E:\.netc#\restart\obj\Debug\net8.0\restart.genruntimeconfig.cache
+E:\.netc#\restart\obj\Debug\net8.0\ref\restart.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("classandobj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3b901d9507063dbbfb42e91789641f45e56f8c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("classandobj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("classandobj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

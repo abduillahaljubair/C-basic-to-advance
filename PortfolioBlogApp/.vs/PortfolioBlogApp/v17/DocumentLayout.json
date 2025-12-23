@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.netc#\\PortfolioBlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\models\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\models\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|e:\\.netc#\\portfolioblogapp\\portfolioblogapp\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DF837F-59B1-4E2E-8D34-ABC88CEFDBA2}|PortfolioBlogApp\\PortfolioBlogApp.csproj|solutionrelative:portfolioblogapp\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Blog\\Details.cshtml",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Views\\Blog\\Details.cshtml",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Blog\\Details.cshtml",
+              "RelativeToolTip": "PortfolioBlogApp\\Views\\Blog\\Details.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T17:09:14.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "PortfolioBlogApp\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T17:11:17.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PortfolioBlogApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T17:13:19.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "PortfolioBlogApp\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T17:07:59.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PortfolioBlogApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T17:05:49.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Controllers\\ContactController.cs",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "PortfolioBlogApp\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvyoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:04:24.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PortfolioBlogApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:51:42.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Controllers\\BlogController.cs",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "PortfolioBlogApp\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:04:00.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Models\\DataStore.cs",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Models\\DataStore.cs",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Models\\DataStore.cs",
+              "RelativeToolTip": "PortfolioBlogApp\\Models\\DataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:53:03.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Models\\Project.cs",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Models\\Project.cs",
+              "RelativeToolTip": "PortfolioBlogApp\\Models\\Project.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:56:59.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Models\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Models\\ContactMessage.cs",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Models\\ContactMessage.cs",
+              "RelativeToolTip": "PortfolioBlogApp\\Models\\ContactMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:57:46.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Models\\BlogPost.cs",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Models\\BlogPost.cs",
+              "RelativeToolTip": "PortfolioBlogApp\\Models\\BlogPost.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:58:37.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "PortfolioBlogApp\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T17:42:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "PortfolioBlogApp\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T17:42:23.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "PortfolioBlogApp\\Models\\Comment.cs",
+              "ToolTip": "E:\\.netc#\\PortfolioBlogApp\\PortfolioBlogApp\\Models\\Comment.cs",
+              "RelativeToolTip": "PortfolioBlogApp\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:58:02.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

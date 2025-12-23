@@ -1,0 +1,15 @@
+E:\.netc#\inheritance\3.publicconstractor\bin\Debug\net8.0\3.publicconstractor.exe
+E:\.netc#\inheritance\3.publicconstractor\bin\Debug\net8.0\3.publicconstractor.deps.json
+E:\.netc#\inheritance\3.publicconstractor\bin\Debug\net8.0\3.publicconstractor.runtimeconfig.json
+E:\.netc#\inheritance\3.publicconstractor\bin\Debug\net8.0\3.publicconstractor.dll
+E:\.netc#\inheritance\3.publicconstractor\bin\Debug\net8.0\3.publicconstractor.pdb
+E:\.netc#\inheritance\3.publicconstractor\obj\Debug\net8.0\3.publicconstractor.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\inheritance\3.publicconstractor\obj\Debug\net8.0\3.publicconstractor.AssemblyInfoInputs.cache
+E:\.netc#\inheritance\3.publicconstractor\obj\Debug\net8.0\3.publicconstractor.AssemblyInfo.cs
+E:\.netc#\inheritance\3.publicconstractor\obj\Debug\net8.0\3.publicconstractor.csproj.CoreCompileInputs.cache
+E:\.netc#\inheritance\3.publicconstractor\obj\Debug\net8.0\3.publicconstractor.sourcelink.json
+E:\.netc#\inheritance\3.publicconstractor\obj\Debug\net8.0\3.publicconstractor.dll
+E:\.netc#\inheritance\3.publicconstractor\obj\Debug\net8.0\refint\3.publicconstractor.dll
+E:\.netc#\inheritance\3.publicconstractor\obj\Debug\net8.0\3.publicconstractor.pdb
+E:\.netc#\inheritance\3.publicconstractor\obj\Debug\net8.0\3.publicconstractor.genruntimeconfig.cache
+E:\.netc#\inheritance\3.publicconstractor\obj\Debug\net8.0\ref\3.publicconstractor.dll

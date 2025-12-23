@@ -1,0 +1,15 @@
+E:\.netc#\allinone\bin\Debug\net8.0\allinone.exe
+E:\.netc#\allinone\bin\Debug\net8.0\allinone.deps.json
+E:\.netc#\allinone\bin\Debug\net8.0\allinone.runtimeconfig.json
+E:\.netc#\allinone\bin\Debug\net8.0\allinone.dll
+E:\.netc#\allinone\bin\Debug\net8.0\allinone.pdb
+E:\.netc#\allinone\obj\Debug\net8.0\allinone.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\allinone\obj\Debug\net8.0\allinone.AssemblyInfoInputs.cache
+E:\.netc#\allinone\obj\Debug\net8.0\allinone.AssemblyInfo.cs
+E:\.netc#\allinone\obj\Debug\net8.0\allinone.csproj.CoreCompileInputs.cache
+E:\.netc#\allinone\obj\Debug\net8.0\allinone.sourcelink.json
+E:\.netc#\allinone\obj\Debug\net8.0\allinone.dll
+E:\.netc#\allinone\obj\Debug\net8.0\refint\allinone.dll
+E:\.netc#\allinone\obj\Debug\net8.0\allinone.pdb
+E:\.netc#\allinone\obj\Debug\net8.0\allinone.genruntimeconfig.cache
+E:\.netc#\allinone\obj\Debug\net8.0\ref\allinone.dll

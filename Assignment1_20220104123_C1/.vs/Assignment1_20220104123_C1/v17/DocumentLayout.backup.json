@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.netc#\\Assignment1_20220104123_C1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|e:\\.netc#\\assignment1_20220104123_c1\\assignment1_20220104123_c1\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|solutionrelative:assignment1_20220104123_c1\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|E:\\.netc#\\Assignment1_20220104123_C1\\assignment1_20220104123_c1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|solutionrelative:assignment1_20220104123_c1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|E:\\.netc#\\Assignment1_20220104123_C1\\assignment1_20220104123_c1\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|solutionrelative:assignment1_20220104123_c1\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|E:\\.netc#\\Assignment1_20220104123_C1\\assignment1_20220104123_c1\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|solutionrelative:assignment1_20220104123_c1\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|E:\\.netc#\\Assignment1_20220104123_C1\\assignment1_20220104123_c1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|solutionrelative:assignment1_20220104123_c1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|E:\\.netc#\\Assignment1_20220104123_C1\\assignment1_20220104123_c1\\summaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|solutionrelative:assignment1_20220104123_c1\\summaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|E:\\.netc#\\Assignment1_20220104123_C1\\assignment1_20220104123_c1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|solutionrelative:assignment1_20220104123_c1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|E:\\.netc#\\Assignment1_20220104123_C1\\assignment1_20220104123_c1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|solutionrelative:assignment1_20220104123_c1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|E:\\.netc#\\Assignment1_20220104123_C1\\assignment1_20220104123_c1\\summaryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|solutionrelative:assignment1_20220104123_c1\\summaryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|E:\\.netc#\\Assignment1_20220104123_C1\\assignment1_20220104123_c1\\summaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|solutionrelative:assignment1_20220104123_c1\\summaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|E:\\.netc#\\Assignment1_20220104123_C1\\assignment1_20220104123_c1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|solutionrelative:assignment1_20220104123_c1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|E:\\.netc#\\Assignment1_20220104123_C1\\assignment1_20220104123_c1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C10A25-6450-4368-86C9-577B769B6D24}|Assignment1_20220104123_C1\\Assignment1_20220104123_C1.csproj|solutionrelative:assignment1_20220104123_c1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\MainForm.cs",
+              "RelativeDocumentMoniker": "Assignment1_20220104123_C1\\MainForm.cs",
+              "ToolTip": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\MainForm.cs",
+              "RelativeToolTip": "Assignment1_20220104123_C1\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:36:30.231Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SummaryForm.cs",
+              "DocumentMoniker": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\SummaryForm.cs",
+              "RelativeDocumentMoniker": "Assignment1_20220104123_C1\\SummaryForm.cs",
+              "ToolTip": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\SummaryForm.cs",
+              "RelativeToolTip": "Assignment1_20220104123_C1\\SummaryForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:25:47.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Assignment1_20220104123_C1\\MainForm.Designer.cs",
+              "ToolTip": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\MainForm.Designer.cs",
+              "RelativeToolTip": "Assignment1_20220104123_C1\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:57:12.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Assignment1_20220104123_C1\\LoginForm.cs",
+              "ToolTip": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Assignment1_20220104123_C1\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:42:37.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Assignment1_20220104123_C1\\LoginForm.Designer.cs",
+              "ToolTip": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Assignment1_20220104123_C1\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:24:46.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\LoginForm.resx",
+              "RelativeDocumentMoniker": "Assignment1_20220104123_C1\\LoginForm.resx",
+              "ToolTip": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\LoginForm.resx",
+              "RelativeToolTip": "Assignment1_20220104123_C1\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-29T20:24:51.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\Prompt.cs",
+              "RelativeDocumentMoniker": "Assignment1_20220104123_C1\\Prompt.cs",
+              "ToolTip": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\Prompt.cs",
+              "RelativeToolTip": "Assignment1_20220104123_C1\\Prompt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:13:55.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\MainForm.cs",
+              "RelativeDocumentMoniker": "Assignment1_20220104123_C1\\MainForm.cs",
+              "ToolTip": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\MainForm.cs [Design]",
+              "RelativeToolTip": "Assignment1_20220104123_C1\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:12:00.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SummaryForm.Designer.cs",
+              "DocumentMoniker": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\SummaryForm.Designer.cs",
+              "RelativeDocumentMoniker": "Assignment1_20220104123_C1\\SummaryForm.Designer.cs",
+              "ToolTip": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\SummaryForm.Designer.cs",
+              "RelativeToolTip": "Assignment1_20220104123_C1\\SummaryForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:18:26.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SummaryForm.cs [Design]",
+              "DocumentMoniker": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\SummaryForm.cs",
+              "RelativeDocumentMoniker": "Assignment1_20220104123_C1\\SummaryForm.cs",
+              "ToolTip": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\SummaryForm.cs [Design]",
+              "RelativeToolTip": "Assignment1_20220104123_C1\\SummaryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:18:15.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1_20220104123_C1\\Program.cs",
+              "ToolTip": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\Program.cs",
+              "RelativeToolTip": "Assignment1_20220104123_C1\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:05:44.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Assignment1_20220104123_C1\\LoginForm.cs",
+              "ToolTip": "E:\\.netc#\\Assignment1_20220104123_C1\\Assignment1_20220104123_C1\\LoginForm.cs",
+              "RelativeToolTip": "Assignment1_20220104123_C1\\LoginForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:43:38.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

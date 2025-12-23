@@ -1,0 +1,20 @@
+﻿@model List<PortfolioBlogApp.Models.Project>
+@{
+    ViewBag.Title = "Projects";
+}
+
+<h2>Project Gallery</h2>
+<div class="row">
+    @foreach (var project in Model)
+    {
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <img src="@project.ImageUrl" class="card-img-top" />
+                <div class="card-body">
+                    <h5 class="card-title">@project.Title</h5>
+                    <p class="card-text">@project.Description</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,15 @@
+E:\.netc#\inheritance\privatesupercontractor\abstraction\bin\Debug\net8.0\abstraction.exe
+E:\.netc#\inheritance\privatesupercontractor\abstraction\bin\Debug\net8.0\abstraction.deps.json
+E:\.netc#\inheritance\privatesupercontractor\abstraction\bin\Debug\net8.0\abstraction.runtimeconfig.json
+E:\.netc#\inheritance\privatesupercontractor\abstraction\bin\Debug\net8.0\abstraction.dll
+E:\.netc#\inheritance\privatesupercontractor\abstraction\bin\Debug\net8.0\abstraction.pdb
+E:\.netc#\inheritance\privatesupercontractor\abstraction\obj\Debug\net8.0\abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\inheritance\privatesupercontractor\abstraction\obj\Debug\net8.0\abstraction.AssemblyInfoInputs.cache
+E:\.netc#\inheritance\privatesupercontractor\abstraction\obj\Debug\net8.0\abstraction.AssemblyInfo.cs
+E:\.netc#\inheritance\privatesupercontractor\abstraction\obj\Debug\net8.0\abstraction.csproj.CoreCompileInputs.cache
+E:\.netc#\inheritance\privatesupercontractor\abstraction\obj\Debug\net8.0\abstraction.sourcelink.json
+E:\.netc#\inheritance\privatesupercontractor\abstraction\obj\Debug\net8.0\abstraction.dll
+E:\.netc#\inheritance\privatesupercontractor\abstraction\obj\Debug\net8.0\refint\abstraction.dll
+E:\.netc#\inheritance\privatesupercontractor\abstraction\obj\Debug\net8.0\abstraction.pdb
+E:\.netc#\inheritance\privatesupercontractor\abstraction\obj\Debug\net8.0\abstraction.genruntimeconfig.cache
+E:\.netc#\inheritance\privatesupercontractor\abstraction\obj\Debug\net8.0\ref\abstraction.dll

@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\csharp basic to advance\\5.statickeyword\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:5.statickeyword\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\csharp basic to advance\\100.practice\\ShapeDemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:100.practice\\ShapeDemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +24,9 @@
               "RelativeDocumentMoniker": "5.statickeyword\\Program.cs",
               "ToolTip": "E:\\.netc#\\csharp basic to advance\\5.statickeyword\\Program.cs",
               "RelativeToolTip": "5.statickeyword\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T20:10:01.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShapeDemo.csproj",
-              "DocumentMoniker": "E:\\.netc#\\csharp basic to advance\\100.practice\\ShapeDemo.csproj",
-              "RelativeDocumentMoniker": "100.practice\\ShapeDemo.csproj",
-              "ToolTip": "E:\\.netc#\\csharp basic to advance\\100.practice\\ShapeDemo.csproj",
-              "RelativeToolTip": "100.practice\\ShapeDemo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-09T20:09:50.381Z",
               "EditorCaption": ""
             }
           ]

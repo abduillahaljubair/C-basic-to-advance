@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\100.practice",
-    "\\5.statickeyword"
+    "\\5.statickeyword",
+    "\\inheritance",
+    "\\inheritance\\2.inheritancebasis",
+    "\\inheritance\\3.publicconstractor",
+    "\\inheritance\\privatesupercontractor",
+    "\\interFFace",
+    "\\Labanswer",
+    "\\practice",
+    "\\res3"
   ],
-  "SelectedNode": "\\5.statickeyword\\Program.cs",
+  "SelectedNode": "\\5.statickeyword\\statickeyword.csproj",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,17 @@
+﻿@model List<PortfolioBlogApp.Models.BlogPost>
+@{
+    ViewBag.Title = "Blog";
+}
+
+<h2>Blog Posts</h2>
+<ul class="list-group">
+    @foreach (var blog in Model)
+    {
+        <li class="list-group-item">
+            <h5>@blog.Title</h5>
+            <small>@blog.PostedOn.ToShortDateString()</small>
+            <p>@blog.Content.Substring(0, Math.Min(100, blog.Content.Length))... </p>
+            <a href="@Url.Action("Details", "Blog", new { id = blog.Id })" class="btn btn-primary btn-sm">Read More</a>
+        </li>
+    }
+</ul>

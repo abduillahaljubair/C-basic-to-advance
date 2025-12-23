@@ -1,0 +1,32 @@
+﻿@model PortfolioBlogApp.Models.ContactMessage
+@{
+    ViewBag.Title = "Contact";
+}
+
+<h2>Contact Us</h2>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+@using (Html.BeginForm("Submit", "Contact", FormMethod.Post))
+{
+    <div class="form-group">
+        <label>Name</label>
+        <input type="text" name="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input type="email" name="Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Message</label>
+        <textarea name="Message" class="form-control"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Submit</button>
+}

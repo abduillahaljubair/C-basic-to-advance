@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.netc#\\inheritance\\privatesupercontractor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63E92886-314D-8C5B-B5F2-34B66AB4B6F9}|..\\..\\allinone\\allinone.csproj|e:\\.netc#\\allinone\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E92886-314D-8C5B-B5F2-34B66AB4B6F9}|..\\..\\allinone\\allinone.csproj|e:\\.netc#\\allinone\\oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E92886-314D-8C5B-B5F2-34B66AB4B6F9}|..\\..\\allinone\\allinone.csproj|e:\\.netc#\\allinone\\ioop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E92886-314D-8C5B-B5F2-34B66AB4B6F9}|..\\..\\allinone\\allinone.csproj|e:\\.netc#\\allinone\\ifelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\inheritance\\privatesupercontractor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\.netc#\\inheritance\\privatesupercontractor\\interFFace\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:interFFace\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2AC3D0-40A5-4574-B6BA-726B199321B9}|interface\\interface.csproj|e:\\.netc#\\inheritance\\privatesupercontractor\\interface\\interface.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8F2AC3D0-40A5-4574-B6BA-726B199321B9}|interface\\interface.csproj|solutionrelative:interface\\interface.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F2CDB2-28A1-438A-A96E-F4F5C9712CB2}|abstraction2\\abstraction2.csproj|e:\\.netc#\\inheritance\\privatesupercontractor\\abstraction2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F2CDB2-28A1-438A-A96E-F4F5C9712CB2}|abstraction2\\abstraction2.csproj|solutionrelative:abstraction2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8BF161-B3E6-40DF-B12B-49FBFEBE6E2E}|abstraction\\abstraction.csproj|e:\\.netc#\\inheritance\\privatesupercontractor\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8BF161-B3E6-40DF-B12B-49FBFEBE6E2E}|abstraction\\abstraction.csproj|solutionrelative:abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E72365-FC4B-46B6-B16E-5D717385BD09}|encapsulation\\encapsulation.csproj|e:\\.netc#\\inheritance\\privatesupercontractor\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E72365-FC4B-46B6-B16E-5D717385BD09}|encapsulation\\encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\Generic.cs",
+              "RelativeDocumentMoniker": "..\\..\\allinone\\Generic.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\Generic.cs",
+              "RelativeToolTip": "..\\..\\allinone\\Generic.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:54:21.886Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IfElse.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\IfElse.cs",
+              "RelativeDocumentMoniker": "..\\..\\allinone\\IfElse.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\IfElse.cs",
+              "RelativeToolTip": "..\\..\\allinone\\IfElse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:54:16.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OOP.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\OOP.cs",
+              "RelativeDocumentMoniker": "..\\..\\allinone\\OOP.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\OOP.cs",
+              "RelativeToolTip": "..\\..\\allinone\\OOP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:53:25.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOOP.cs",
+              "DocumentMoniker": "E:\\.netc#\\allinone\\IOOP.cs",
+              "RelativeDocumentMoniker": "..\\..\\allinone\\IOOP.cs",
+              "ToolTip": "E:\\.netc#\\allinone\\IOOP.cs",
+              "RelativeToolTip": "..\\..\\allinone\\IOOP.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:53:20.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\privatesupercontractor\\interFFace\\Program.cs",
+              "RelativeDocumentMoniker": "interFFace\\Program.cs",
+              "ToolTip": "E:\\.netc#\\inheritance\\privatesupercontractor\\interFFace\\Program.cs",
+              "RelativeToolTip": "interFFace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:49:40.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\privatesupercontractor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\.netc#\\inheritance\\privatesupercontractor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:49:47.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "interface",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\privatesupercontractor\\interface\\interface.csproj",
+              "RelativeDocumentMoniker": "interface\\interface.csproj",
+              "ToolTip": "E:\\.netc#\\inheritance\\privatesupercontractor\\interface\\interface.csproj",
+              "RelativeToolTip": "interface\\interface.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T17:49:46.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\privatesupercontractor\\abstraction2\\Program.cs",
+              "RelativeDocumentMoniker": "abstraction2\\Program.cs",
+              "ToolTip": "E:\\.netc#\\inheritance\\privatesupercontractor\\abstraction2\\Program.cs",
+              "RelativeToolTip": "abstraction2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:49:04.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\privatesupercontractor\\abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "abstraction\\Program.cs",
+              "ToolTip": "E:\\.netc#\\inheritance\\privatesupercontractor\\abstraction\\Program.cs",
+              "RelativeToolTip": "abstraction\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:15:56.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.netc#\\inheritance\\privatesupercontractor\\encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "encapsulation\\Program.cs",
+              "ToolTip": "E:\\.netc#\\inheritance\\privatesupercontractor\\encapsulation\\Program.cs",
+              "RelativeToolTip": "encapsulation\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:08:54.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.netc#\\person\\Constractor.csproj",
+      "projectUniqueName": "E:\\.netc#\\3.person\\Constractor.csproj",
       "projectName": "Constractor",
-      "projectPath": "E:\\.netc#\\person\\Constractor.csproj",
+      "projectPath": "E:\\.netc#\\3.person\\Constractor.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\.netc#\\person\\obj\\",
+      "outputPath": "E:\\.netc#\\3.person\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,13 @@
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\bin\Debug\Assignment1_20220104123_C1.exe.config
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\bin\Debug\Assignment1_20220104123_C1.exe
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\bin\Debug\Assignment1_20220104123_C1.pdb
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\obj\Debug\Assignment1_20220104123_C1.csproj.AssemblyReference.cache
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\obj\Debug\Assignment1_20220104123_C1.LoginForm.resources
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\obj\Debug\Assignment1_20220104123_C1.MainForm.resources
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\obj\Debug\Assignment1_20220104123_C1.Properties.Resources.resources
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\obj\Debug\Assignment1_20220104123_C1.csproj.GenerateResource.cache
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\obj\Debug\Assignment1_20220104123_C1.csproj.CoreCompileInputs.cache
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\obj\Debug\Assignment1_20220104123_C1.exe
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\obj\Debug\Assignment1_20220104123_C1.pdb
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\obj\Debug\Assignment1_20220104123_C1.exe.config
+E:\.netc#\Assignment1_20220104123_C1\Assignment1_20220104123_C1\obj\Debug\Assignment1_20220104123_C1.SummaryForm.resources

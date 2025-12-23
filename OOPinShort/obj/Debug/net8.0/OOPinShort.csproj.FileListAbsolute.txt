@@ -1,0 +1,15 @@
+E:\.netc#\OOPinShort\bin\Debug\net8.0\OOPinShort.exe
+E:\.netc#\OOPinShort\bin\Debug\net8.0\OOPinShort.deps.json
+E:\.netc#\OOPinShort\bin\Debug\net8.0\OOPinShort.runtimeconfig.json
+E:\.netc#\OOPinShort\bin\Debug\net8.0\OOPinShort.dll
+E:\.netc#\OOPinShort\bin\Debug\net8.0\OOPinShort.pdb
+E:\.netc#\OOPinShort\obj\Debug\net8.0\OOPinShort.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\OOPinShort\obj\Debug\net8.0\OOPinShort.AssemblyInfoInputs.cache
+E:\.netc#\OOPinShort\obj\Debug\net8.0\OOPinShort.AssemblyInfo.cs
+E:\.netc#\OOPinShort\obj\Debug\net8.0\OOPinShort.csproj.CoreCompileInputs.cache
+E:\.netc#\OOPinShort\obj\Debug\net8.0\OOPinShort.sourcelink.json
+E:\.netc#\OOPinShort\obj\Debug\net8.0\OOPinShort.dll
+E:\.netc#\OOPinShort\obj\Debug\net8.0\refint\OOPinShort.dll
+E:\.netc#\OOPinShort\obj\Debug\net8.0\OOPinShort.pdb
+E:\.netc#\OOPinShort\obj\Debug\net8.0\OOPinShort.genruntimeconfig.cache
+E:\.netc#\OOPinShort\obj\Debug\net8.0\ref\OOPinShort.dll

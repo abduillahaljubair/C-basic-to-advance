@@ -1,0 +1,15 @@
+E:\.netc#\labques\bin\Debug\net8.0\labques.exe
+E:\.netc#\labques\bin\Debug\net8.0\labques.deps.json
+E:\.netc#\labques\bin\Debug\net8.0\labques.runtimeconfig.json
+E:\.netc#\labques\bin\Debug\net8.0\labques.dll
+E:\.netc#\labques\bin\Debug\net8.0\labques.pdb
+E:\.netc#\labques\obj\Debug\net8.0\labques.GeneratedMSBuildEditorConfig.editorconfig
+E:\.netc#\labques\obj\Debug\net8.0\labques.AssemblyInfoInputs.cache
+E:\.netc#\labques\obj\Debug\net8.0\labques.AssemblyInfo.cs
+E:\.netc#\labques\obj\Debug\net8.0\labques.csproj.CoreCompileInputs.cache
+E:\.netc#\labques\obj\Debug\net8.0\labques.sourcelink.json
+E:\.netc#\labques\obj\Debug\net8.0\labques.dll
+E:\.netc#\labques\obj\Debug\net8.0\refint\labques.dll
+E:\.netc#\labques\obj\Debug\net8.0\labques.pdb
+E:\.netc#\labques\obj\Debug\net8.0\labques.genruntimeconfig.cache
+E:\.netc#\labques\obj\Debug\net8.0\ref\labques.dll
